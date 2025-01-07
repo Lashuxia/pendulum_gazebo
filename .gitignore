@@ -1,0 +1,9 @@
+# 创建 .gitignore 文件
+cat > .gitignore << EOF
+build/
+install/
+log/
+*.pyc
+__pycache__/
+.vscode/
+EOF
