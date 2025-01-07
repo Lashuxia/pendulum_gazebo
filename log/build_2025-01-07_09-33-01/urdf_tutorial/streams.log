@@ -1,0 +1,58 @@
+[0.045s] Invoking command in '/mnt/d/sim_ws/build/urdf_tutorial': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /mnt/d/sim_ws/src/urdf_tutorial -DCMAKE_INSTALL_PREFIX=/mnt/d/sim_ws/install/urdf_tutorial
+[0.237s] -- The C compiler identification is GNU 11.4.0
+[0.774s] -- The CXX compiler identification is GNU 11.4.0
+[1.221s] -- Detecting C compiler ABI info
+[1.861s] -- Detecting C compiler ABI info - done
+[1.876s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.876s] -- Detecting C compile features
+[1.877s] -- Detecting C compile features - done
+[1.908s] -- Detecting CXX compiler ABI info
+[2.882s] -- Detecting CXX compiler ABI info - done
+[2.896s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[2.896s] -- Detecting CXX compile features
+[2.901s] -- Detecting CXX compile features - done
+[2.940s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[3.036s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[3.133s] -- Found urdf: 2.6.1 (/opt/ros/humble/share/urdf/cmake)
+[3.638s] -- Found xacro: 2.0.8 (/opt/ros/humble/share/xacro/cmake)
+[4.478s] -- Configuring done
+[4.818s] -- Generating done
+[5.055s] -- Build files have been written to: /mnt/d/sim_ws/build/urdf_tutorial
+[5.060s] Invoked command in '/mnt/d/sim_ws/build/urdf_tutorial' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /mnt/d/sim_ws/src/urdf_tutorial -DCMAKE_INSTALL_PREFIX=/mnt/d/sim_ws/install/urdf_tutorial
+[5.067s] Invoking command in '/mnt/d/sim_ws/build/urdf_tutorial': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /mnt/d/sim_ws/build/urdf_tutorial -- -j16 -l16
+[5.077s] gmake: Warning: File 'Makefile' has modification time 1 s in the future
+[5.126s] gmake[1]: Warning: File 'CMakeFiles/Makefile2' has modification time 1.1 s in the future
+[5.127s] gmake[1]: warning:  Clock skew detected.  Your build may be incomplete.
+[5.134s] gmake: warning:  Clock skew detected.  Your build may be incomplete.
+[5.136s] Invoked command in '/mnt/d/sim_ws/build/urdf_tutorial' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /mnt/d/sim_ws/build/urdf_tutorial -- -j16 -l16
+[5.153s] Invoking command in '/mnt/d/sim_ws/build/urdf_tutorial': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /mnt/d/sim_ws/build/urdf_tutorial
+[5.158s] -- Install configuration: ""
+[5.161s] -- Installing: /mnt/d/sim_ws/install/urdf_tutorial/share/urdf_tutorial/launch
+[5.175s] -- Installing: /mnt/d/sim_ws/install/urdf_tutorial/share/urdf_tutorial/launch/display.launch
+[5.215s] -- Installing: /mnt/d/sim_ws/install/urdf_tutorial/share/urdf_tutorial/launch/gazebo.launch
+[5.274s] -- Installing: /mnt/d/sim_ws/install/urdf_tutorial/share/urdf_tutorial/urdf
+[5.295s] -- Installing: /mnt/d/sim_ws/install/urdf_tutorial/share/urdf_tutorial/urdf/01-myfirst.urdf
+[5.346s] -- Installing: /mnt/d/sim_ws/install/urdf_tutorial/share/urdf_tutorial/urdf/02-multipleshapes.urdf
+[5.381s] -- Installing: /mnt/d/sim_ws/install/urdf_tutorial/share/urdf_tutorial/urdf/03-origins.urdf
+[5.415s] -- Installing: /mnt/d/sim_ws/install/urdf_tutorial/share/urdf_tutorial/urdf/04-materials.urdf
+[5.456s] -- Installing: /mnt/d/sim_ws/install/urdf_tutorial/share/urdf_tutorial/urdf/05-visual.urdf
+[5.496s] -- Installing: /mnt/d/sim_ws/install/urdf_tutorial/share/urdf_tutorial/urdf/06-flexible.urdf
+[5.556s] -- Installing: /mnt/d/sim_ws/install/urdf_tutorial/share/urdf_tutorial/urdf/07-physics.urdf
+[6.113s] -- Installing: /mnt/d/sim_ws/install/urdf_tutorial/share/urdf_tutorial/urdf/08-macroed.urdf.xacro
+[6.236s] -- Installing: /mnt/d/sim_ws/install/urdf_tutorial/share/urdf_tutorial/urdf/pendulum.urdf
+[6.367s] -- Installing: /mnt/d/sim_ws/install/urdf_tutorial/share/ament_index/resource_index/package_run_dependencies/urdf_tutorial
+[6.424s] -- Installing: /mnt/d/sim_ws/install/urdf_tutorial/share/ament_index/resource_index/parent_prefix_path/urdf_tutorial
+[6.472s] -- Installing: /mnt/d/sim_ws/install/urdf_tutorial/share/urdf_tutorial/environment/ament_prefix_path.sh
+[6.501s] -- Installing: /mnt/d/sim_ws/install/urdf_tutorial/share/urdf_tutorial/environment/ament_prefix_path.dsv
+[6.529s] -- Installing: /mnt/d/sim_ws/install/urdf_tutorial/share/urdf_tutorial/environment/path.sh
+[6.555s] -- Installing: /mnt/d/sim_ws/install/urdf_tutorial/share/urdf_tutorial/environment/path.dsv
+[6.583s] -- Installing: /mnt/d/sim_ws/install/urdf_tutorial/share/urdf_tutorial/local_setup.bash
+[6.614s] -- Installing: /mnt/d/sim_ws/install/urdf_tutorial/share/urdf_tutorial/local_setup.sh
+[6.642s] -- Installing: /mnt/d/sim_ws/install/urdf_tutorial/share/urdf_tutorial/local_setup.zsh
+[6.668s] -- Installing: /mnt/d/sim_ws/install/urdf_tutorial/share/urdf_tutorial/local_setup.dsv
+[6.702s] -- Installing: /mnt/d/sim_ws/install/urdf_tutorial/share/urdf_tutorial/package.dsv
+[6.759s] -- Installing: /mnt/d/sim_ws/install/urdf_tutorial/share/ament_index/resource_index/packages/urdf_tutorial
+[6.823s] -- Installing: /mnt/d/sim_ws/install/urdf_tutorial/share/urdf_tutorial/cmake/urdf_tutorialConfig.cmake
+[6.865s] -- Installing: /mnt/d/sim_ws/install/urdf_tutorial/share/urdf_tutorial/cmake/urdf_tutorialConfig-version.cmake
+[6.899s] -- Installing: /mnt/d/sim_ws/install/urdf_tutorial/share/urdf_tutorial/package.xml
+[6.926s] Invoked command in '/mnt/d/sim_ws/build/urdf_tutorial' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /mnt/d/sim_ws/build/urdf_tutorial

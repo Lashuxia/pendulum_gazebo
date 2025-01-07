@@ -1,0 +1,48 @@
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+-- Found urdf: 2.6.1 (/opt/ros/humble/share/urdf/cmake)
+-- Found xacro: 2.0.8 (/opt/ros/humble/share/xacro/cmake)
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /mnt/d/sim_ws/build/urdf_tutorial
+-- Install configuration: ""
+-- Installing: /mnt/d/sim_ws/install/urdf_tutorial/share/urdf_tutorial/launch
+-- Installing: /mnt/d/sim_ws/install/urdf_tutorial/share/urdf_tutorial/launch/display.launch
+-- Installing: /mnt/d/sim_ws/install/urdf_tutorial/share/urdf_tutorial/launch/gazebo.launch
+-- Installing: /mnt/d/sim_ws/install/urdf_tutorial/share/urdf_tutorial/urdf
+-- Installing: /mnt/d/sim_ws/install/urdf_tutorial/share/urdf_tutorial/urdf/01-myfirst.urdf
+-- Installing: /mnt/d/sim_ws/install/urdf_tutorial/share/urdf_tutorial/urdf/02-multipleshapes.urdf
+-- Installing: /mnt/d/sim_ws/install/urdf_tutorial/share/urdf_tutorial/urdf/03-origins.urdf
+-- Installing: /mnt/d/sim_ws/install/urdf_tutorial/share/urdf_tutorial/urdf/04-materials.urdf
+-- Installing: /mnt/d/sim_ws/install/urdf_tutorial/share/urdf_tutorial/urdf/05-visual.urdf
+-- Installing: /mnt/d/sim_ws/install/urdf_tutorial/share/urdf_tutorial/urdf/06-flexible.urdf
+-- Installing: /mnt/d/sim_ws/install/urdf_tutorial/share/urdf_tutorial/urdf/07-physics.urdf
+-- Installing: /mnt/d/sim_ws/install/urdf_tutorial/share/urdf_tutorial/urdf/08-macroed.urdf.xacro
+-- Installing: /mnt/d/sim_ws/install/urdf_tutorial/share/urdf_tutorial/urdf/pendulum.urdf
+-- Installing: /mnt/d/sim_ws/install/urdf_tutorial/share/ament_index/resource_index/package_run_dependencies/urdf_tutorial
+-- Installing: /mnt/d/sim_ws/install/urdf_tutorial/share/ament_index/resource_index/parent_prefix_path/urdf_tutorial
+-- Installing: /mnt/d/sim_ws/install/urdf_tutorial/share/urdf_tutorial/environment/ament_prefix_path.sh
+-- Installing: /mnt/d/sim_ws/install/urdf_tutorial/share/urdf_tutorial/environment/ament_prefix_path.dsv
+-- Installing: /mnt/d/sim_ws/install/urdf_tutorial/share/urdf_tutorial/environment/path.sh
+-- Installing: /mnt/d/sim_ws/install/urdf_tutorial/share/urdf_tutorial/environment/path.dsv
+-- Installing: /mnt/d/sim_ws/install/urdf_tutorial/share/urdf_tutorial/local_setup.bash
+-- Installing: /mnt/d/sim_ws/install/urdf_tutorial/share/urdf_tutorial/local_setup.sh
+-- Installing: /mnt/d/sim_ws/install/urdf_tutorial/share/urdf_tutorial/local_setup.zsh
+-- Installing: /mnt/d/sim_ws/install/urdf_tutorial/share/urdf_tutorial/local_setup.dsv
+-- Installing: /mnt/d/sim_ws/install/urdf_tutorial/share/urdf_tutorial/package.dsv
+-- Installing: /mnt/d/sim_ws/install/urdf_tutorial/share/ament_index/resource_index/packages/urdf_tutorial
+-- Installing: /mnt/d/sim_ws/install/urdf_tutorial/share/urdf_tutorial/cmake/urdf_tutorialConfig.cmake
+-- Installing: /mnt/d/sim_ws/install/urdf_tutorial/share/urdf_tutorial/cmake/urdf_tutorialConfig-version.cmake
+-- Installing: /mnt/d/sim_ws/install/urdf_tutorial/share/urdf_tutorial/package.xml
